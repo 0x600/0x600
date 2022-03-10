@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is 4L05761, I am a hardware 📟 and security 🛡 enthusiast and a DevOps engineer ☁
+My name is 4L05761, I am a hardware 📟 and security 🛡 engineer and a DevOps enthusiast ☁
 
 Map-skills:
 - 📟 Embedded - Arduino, STM32 with Assembler, C, C++
