@@ -14,6 +14,8 @@ flowchart TB
   Language-->C;
   Language-->C++;
   Language-->C#;
+  Language-->Assembler;
+  Language-->HTML/CSS/JS;
   
   Frameworks-->Qt;
   
