@@ -1,33 +1,3 @@
 ### Hi there 👋
 
-My name is 4L05761, I am a hardware/security engineer and DevOps enthusiast ☁
-
-```mermaid
-flowchart TB
-  Skills-->Language;
-  Skills-->Frameworks;
-  Skills-->Desktop;
-  Skills-->Embedded;
-  Skills-->Cloud;
-  Skills-->Security;
-  
-  Language-->C;
-  Language-->C++;
-  Language-->C#;
-  Language-->Assembler;
-  Language-->HTML/CSS/JS;
-  
-  Frameworks-->Qt;
-  
-  Desktop-->Linux;
-  Desktop-->Windows;
-  
-  Embedded-->Arduino;
-  Embedded-->STM32;
-  Embedded-->RaspberryPi;
-  
-  Cloud-->Docker;
-  
-  Security-->Cryptography;
-  Security-->Hardware_Security;
-```
+it's me - 4L05761, my interests: Embedded Systems, Computers, Security, Containers and Software
