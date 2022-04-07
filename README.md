@@ -2,4 +2,12 @@
 
 it's me - 0x600, my interests: embedded, desktop, security, containers and science software
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x600)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0x600&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0x600&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0x600&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0x600&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0x600&theme=github_dark)
