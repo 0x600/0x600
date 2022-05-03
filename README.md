@@ -1,5 +1,5 @@
 # Hiya 👋
-```haskell
+```scala
 This is 0x600, and these are my interests: 
 + Embedded 📟
 + Desktop 🖥
