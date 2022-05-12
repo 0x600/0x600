@@ -1,6 +1,6 @@
 # Hiya 👋
 ```scala
-This is 0x600, and these are my interests: 
+This is 0x600, my interests it's: 
 + Embedded 📟
 + Desktop 🖥
 + Security 🔐
