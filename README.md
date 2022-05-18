@@ -1,14 +1,3 @@
-# Hiya 👋
-```scala
-This is 0x600, my interests it's: 
-+ Embedded 📟
-+ Desktop 🖥
-+ Security 🔐
-+ Science 🧪
-+ Mobile 📱
-```
-
 ![Profile-details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0x600&theme=github_dark)
 
-![Repos-lang](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0x600&theme=github_dark)
-![Status](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0x600&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x600&theme=github_dark&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
