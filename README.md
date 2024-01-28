@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=1000&color=1F22F7&random=false&width=435&lines=Hi%2C+I'm+dodaj.)](https://git.io/typing-svg)
+# Hello! I'm dodaj.
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 <p align="center"> 
   viewed<br>
