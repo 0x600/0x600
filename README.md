@@ -1,6 +1,4 @@
-# Hey there :wave:
-
-<img src="https://raw.githubusercontent.com/OnlyStringCharacters/OnlyStringCharacters/master/resources/banner.png" alt="Hello">
+[!](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=1000&color=1F22F7&random=false&width=435&lines=Hi%2C+I'm+dodaj.)]
 
 <p align="center"> 
   viewed<br>
