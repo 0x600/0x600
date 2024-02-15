@@ -2,11 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-<p align="center"> 
-  viewed<br>
-  <img src="https://profile-counter.glitch.me/OnlyStringCharacters/count.svg" />
-</p>
-
 <h2 align="center">
   languages
 </h2>
